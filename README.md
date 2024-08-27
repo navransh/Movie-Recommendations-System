@@ -13,6 +13,7 @@ User-Friendly Interface: Input a movie title, and Cinephile returns a list of si
 Scalable: Capable of handling many movies and providing fast recommendations.
 
 How It Works
+
 Data Preprocessing: The movie metadata is cleaned and preprocessed to extract relevant features like genres, keywords, cast, crew, and overview (plot summary).
 Feature Vectorization: The text-based features are transformed into vector representations using techniques such as TF-IDF (Term Frequency-Inverse Document Frequency).
 Cosine Similarity: The cosine similarity between the movie vectors is computed to identify the most similar movies to the user's input.
