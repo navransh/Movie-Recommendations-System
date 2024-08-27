@@ -2,6 +2,7 @@
 Cinephile - Content-Based Movie Recommendation System
 
 Overview
+
 Cinephile is a content-based movie recommendation system that leverages cosine similarity to suggest movies to users based on the characteristics of the movies they have previously enjoyed. The system analyzes movie metadata, including genres, keywords, cast, crew, and plot summaries, to find the most similar movies to a given title. The main goal of Cinephile is to help users discover new movies that match their tastes and preferences.
 
 Features
